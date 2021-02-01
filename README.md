@@ -1,5 +1,8 @@
 # 42
 
+![42](42.jpg)
+
+
 The answer to the "Ultimate Question of Life, The Universe, and Everything" is 42. Here you find some sightings...
 
 * [Earliest recorded sighting](./Earliest.md)
