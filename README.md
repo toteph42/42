@@ -7,5 +7,6 @@ The answer to the "Ultimate Question of Life, The Universe, and Everything" is 4
 * [Celebrity sightings](./Celebrity.md)
 * [Computer and electronics sightings](./Computer.md)
 * [Science sightings](./Science.md)
+* [Movie sightings](/.Movie.md)
 
 Please feel free to add your own sigthings and enjoy!
