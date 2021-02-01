@@ -11,5 +11,6 @@ The answer to the "Ultimate Question of Life, The Universe, and Everything" is 4
 * [Television sightings](./Television.md)
 * [Star Trek sightings](/.StarTrek.md)
 * [Print media sightings](./Print.md)
+* [Music sigthings](./Music.md)
 
 Please feel free to add your own sigthings and enjoy!
