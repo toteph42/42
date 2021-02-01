@@ -1,4 +1,4 @@
-# Celebrity sightings
+# Celebrity sightings [Back](./README.md)
 
 
 1.  If you assign numbers 1 - 26 consecutively to the letters of the alphabet an then add the letters found in D. Adams (DNA) name you will get **42**.
