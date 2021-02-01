@@ -9,5 +9,6 @@ The answer to the "Ultimate Question of Life, The Universe, and Everything" is 4
 * [Science sightings](./Science.md)
 * [Movie sightings](/.Movie.md)
 * [Television sightings](./Television.md)
+* [Star Trek sightings](/.StarTrek.md)
 
 Please feel free to add your own sigthings and enjoy!
