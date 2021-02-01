@@ -1,4 +1,4 @@
-# Earliest sightings
+# Earliest sightings [Back](./README.md)
 
 1. The phrase *"In the beginning the Universe was created."* - including the spaces and the period (but not the quotes) contains **42** characters!
 
