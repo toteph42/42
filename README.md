@@ -2,6 +2,9 @@
 
 ![42](42.jpg)
 
+![](https://img.shields.io/packagist/v/toteph42/42.svg)
+![](https://img.shields.io/packagist/l/toteph42/42.svg)
+![](https://img.shields.io/packagist/dt/toteph42/42.svg)
 
 The answer to the "Ultimate Question of Life, The Universe, and Everything" is 42. Here you find some sightings...
 
