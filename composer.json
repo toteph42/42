@@ -1,0 +1,22 @@
+{
+	"name" : "toteph42/42",
+	"type" : "library",
+	"description" : "The answer to the 'Ultimate Question of Life, The Universe, and Everything' is 42. Here you find some sightings...",
+	"license" : "GPL-3.0+",
+	"homepage" : "https://github.com/toteph42/42",
+	"authors" : [{
+			"name" : "Florian Daeumling",
+			"homepage" : "https://github.com/toteph42",
+      		 "role":"Developer"
+	    }
+	],
+	"keywords" : [
+		"42",
+		"theAnswer",
+		"unisverse"
+	],
+	"support" : {
+		"source" : "https://github.com/toteph42/42",
+		"docs": "https://github.com/toteph42/42"
+	}
+}
